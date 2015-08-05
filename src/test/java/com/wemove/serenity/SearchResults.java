@@ -35,7 +35,7 @@ public class SearchResults {
     public void search() {
         google.open();
         google.search( "serenity" );
-        google.shouldContainResult( "yyygegregreg" );
+        google.shouldContainResult( "Serenity" );
     }
 
 

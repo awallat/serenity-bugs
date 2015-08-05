@@ -27,7 +27,7 @@ public class GoogleSteps extends ScenarioSteps {
     @Step
     public void shouldContainResult(String text) {
         WebElementFacade result = page.find( By.id( "ires" ) );
-        result.shouldContainText( "Serenity" );
+        result.shouldContainText( text );
     }
 
 }
