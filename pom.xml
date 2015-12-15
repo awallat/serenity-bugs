@@ -8,8 +8,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>1.1.2</serenity.version>
-        <serenity.maven.version>1.1.2</serenity.maven.version>
+        <serenity.version>1.1.21</serenity.version>
+        <serenity.maven.version>1.1.21</serenity.maven.version>
         <webdriver.driver>firefox</webdriver.driver>
         <surefire.version>2.18.1</surefire.version>
         <serenity.take.screenshots>BEFORE_AND_AFTER_EACH_STEP</serenity.take.screenshots>
